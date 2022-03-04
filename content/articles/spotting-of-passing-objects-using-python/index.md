@@ -170,7 +170,7 @@ In this tutorial, we have covered necessary content equipping us with spotting p
 
 Below is a GitHub URL containing the source code https://github.com/lizpart/codes/pull/1.
 For references you can follow this link https://pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/.
-Have a blast spotting of passing objects with your program. 
+Have a blast spotting of passing objects with your awesome program. 
 
 
 
